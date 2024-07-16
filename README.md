@@ -21,11 +21,7 @@ This is a control panel of robot's directions using PHP and xampp.
 
 # My robot's control panel
 
-![control panel](https://github.com/user-attachments/assets/f4cb01e0-bc13-4c93-bdac-aa5572d9d7b0)
-
-- When I click on any button:
-
-![s](https://github.com/user-attachments/assets/d4a75a3f-b02c-412d-a6d7-b7da811707d3)
+https://github.com/user-attachments/assets/7183a9be-9408-4b5a-92f7-1053d2cb51f5
 
 - Commands record:
 
